@@ -1,7 +1,7 @@
 {
     "lib": {
         "www": {
-            "id": "com.phonegap.hello-world",
+            "id": "nl.fa5t.coconut",
             "version": "master",
             "uri": "https://github.com/phonegap/phonegap-app-hello-world/archive/master.tar.gz",
             "link": false
